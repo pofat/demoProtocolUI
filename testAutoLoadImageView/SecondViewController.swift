@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  SecondViewController.swift
 //  testAutoLoadImageView
 //
 //  Created by Pofat Diuit on 2016/6/8.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class SecondViewController: UIViewController {
     @IBOutlet weak var imageView: autoLoadRoundImageView!
 
     @IBOutlet weak var smallLabel: UILabel!
